@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**This is Joel Mathew Samuel
+**This is Joel Mathew Samuel**
 
 <!--
 Here are some ideas to get you started:
