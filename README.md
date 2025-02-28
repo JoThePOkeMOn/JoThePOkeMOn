@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**JoThePOkeMOn/JoThePOkeMOn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is Joel Mathew Samuel
 
 <!--
 Here are some ideas to get you started:
