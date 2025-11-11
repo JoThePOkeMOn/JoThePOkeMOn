@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **Student at Saintgits College Of Engineering**
-Passionate about learning new things.Proficient in **HTML**,**CSS**,**VANILLAJS**.Learning **Svelte**(Front-end Framework)
+Passionate about learning new things.Proficient in **HTML**,**CSS**,**JS**.Learning **Svelte**(Front-end Framework)
 
 <!--
 Here are some ideas to get you started:
